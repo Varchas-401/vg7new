@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    background-color: Blue;
+    color: red;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: chartreuse;
+}
+
+.link:hover {
+    background-color: deeppink;
+}
+
+li {
+    display: inline;
+}
+
+.link {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.profile {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    text-align: center;
+}
+#myfavoriteplayer h1{
+    color: fuchsia;
+}
+#myfavoritebooks h1{
+    color:darkorange;
+}
+#inspiration h1{
+    color:chartreuse;
+}
+#mywork h1{
+    color:aqua;
+}
+#about h1{
+    color:crimson;
+}
+.line{
+    height: 6px;
+    background-color: darksalmon;
+    width: 70px;
+    margin: 8px auto;
+}
+#a{height: 352px;
+width: 520px;
+}
+#a{height: 352px;
+width: 520px;
+}
